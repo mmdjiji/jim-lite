@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>assets/LoadWindow.png</file>
+        <file>assets/file.png</file>
+    </qresource>
+</RCC>
