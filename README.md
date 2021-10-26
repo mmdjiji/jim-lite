@@ -14,7 +14,7 @@ This project is the homework of the comprehensive practical course of program de
 
 ## Documentation
 * [Demo video](https://www.bilibili.com/video/BV1sT4y1f7ms/)
-* [Protocol](docs/protocol.md)
+* [Protocol](docs/Protocol.md)
 
 ## References
 * [BreezeStyleSheets](https://github.com/Alexhuszagh/BreezeStyleSheets) - The UI Library
