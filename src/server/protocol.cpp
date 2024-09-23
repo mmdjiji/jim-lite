@@ -27,7 +27,7 @@ bool Protocol::listen(int port) {
 }
 
 void Protocol::onNewConnection() {
-    newSocket = server->nextPendingConnection();
+    QWebSocket *newSocket = server->nextPendingConnection();
 
     logger(QString("[Info] 有新主机 {%1:%2} 连接。").arg(newSocket->peerAddress().toString()).arg(newSocket->peerPort()));
 
